@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 194, 235, 0.486) 0%, hsla(218, 68%, 79%, 0.514) 100%), url(img/woman.jpg);
+    background-image: linear-gradient(to top, rgba(251, 194, 202, 0.486) 0%, hsla(226, 68%, 79%, 0.514) 100%), url(img/PORTADA.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -97,7 +97,7 @@ body{
 /* Services */
 
 .subtitulo{
-    color: #9f8ad0;
+    color: #b48ad0;
     font-size: 40px;
     text-align: center;
     font-weight: 300;
